@@ -158,19 +158,6 @@ aside h3 {
 aside img {
 	padding-bottom: 1em;
 }
-
-/* the styles for the footer */
-footer {
-	background-color: #931420;
-	clear: both;
-
-}
-footer p {
-	text-align: center;
-	color: white;
-	padding: 1em 0;
-}
-
 table {
     width: 100%;
     border-collapse: collapse;
@@ -198,4 +185,16 @@ figcaption {
     font-weight: bold;
     margin-bottom: 10px;
     color: #800000;
+}
+
+/* the styles for the footer */
+footer {
+	background-color: #931420;
+	clear: both;
+
+}
+footer p {
+	text-align: center;
+	color: white;
+	padding: 1em 0;
 }
