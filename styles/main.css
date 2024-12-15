@@ -163,15 +163,15 @@ figure {
 	margin-top: 1em;
 }
 figcaption {
-	color: #fffded;
+	color: #931420;
 }
 
 table {
 	border-collapse: collapse;
 }
 thead, tfoot {
-	border-top: 2px solid #fffded;
-	border-bottom: 2px solid #fffded;
+	border-top: 2px solid #931420;
+	border-bottom: 2px solid #931420;
 }
 th, td {
 	padding: .2em .7em;
@@ -182,7 +182,7 @@ tfoot th, tfoot td {
 	font-weight: bold;
 }
 .border_bottom {
-	border-bottom: 2px solid #fffded;
+	border-bottom: 2px solid #931420;
 }
 .right {
 	text-align: right;
@@ -200,3 +200,4 @@ footer p {
 	color: white;
 	padding: 1em 0;
 }
+
