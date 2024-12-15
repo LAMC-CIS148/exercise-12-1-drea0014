@@ -158,6 +158,36 @@ aside h3 {
 aside img {
 	padding-bottom: 1em;
 }
+}
+figure {
+	margin-top: 1em;
+}
+figcaption {
+	color: #fffded;
+}
+
+table {
+	border-collapse: collapse;
+}
+thead, tfoot {
+	border-top: 2px solid #fffded;
+	border-bottom: 2px solid #fffded;
+}
+th, td {
+	padding: .2em .7em;
+	text-align: left;
+}
+tfoot th, tfoot td {
+	text-align: right;
+	font-weight: bold;
+}
+.border_bottom {
+	border-bottom: 2px solid #fffded;
+}
+.right {
+	text-align: right;
+}
+
 
 /* the styles for the footer */
 footer {
