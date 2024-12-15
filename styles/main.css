@@ -17,12 +17,11 @@ body {
 a:focus, a:hover {
 	font-style: italic;
 }
-
 /* the styles for the header */
 header {
 	padding: 1.5em 0 2em 0;
 	border-bottom: 3px solid #931420;
-	background-image: -moz-linear-gradient(
+		background-image: -moz-linear-gradient(
 	    30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
 	background-image: -webkit-linear-gradient(
 	    30deg, #f6bb73 0%, #fffded 30%, white 50%, #fffded 80%, #f6bb73 100%);
@@ -46,7 +45,6 @@ header img {
 .shadow {
 	text-shadow: 2px 2px 2px #800000;
 }
-
 /* the styles for the navigation menu */
 #nav_menu ul {
 	list-style-type: none;
@@ -86,7 +84,6 @@ header img {
     clear: both;
     display: block;
 }
-
 /* the styles for the main content */
 main {
 	clear: left;
@@ -153,6 +150,7 @@ aside h2 {
 	font-size: 130%;
 	padding: .5em 0 .25em 0;
 }
+
 aside h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
@@ -165,41 +163,10 @@ aside img {
 footer {
 	background-color: #931420;
 	clear: both;
+
 }
 footer p {
 	text-align: center;
 	color: white;
 	padding: 1em 0;
 }
-
-/* the styles for tables */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-}
-
-th, td {
-    border: 1px solid #800000;
-    padding: 10px;
-    text-align: left;
-}
-
-th {
-    background-color: #f2f2f2;
-    color: #800000;
-}
-
-tfoot td {
-    font-weight: bold;
-    text-align: right;
-}
-
-/* the styles for figure captions */
-figcaption {
-    text-align: center;
-    font-weight: bold;
-    margin-bottom: 10px;
-    color: #800000;
-}
-
